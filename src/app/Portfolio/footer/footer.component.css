@@ -2,30 +2,30 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f0f0f0;
     padding: 20px 10px;
-    position: fixed;
-    bottom: 0;
-    left: 0;
     width: 100%;
+    background-color: #1D2F40;
+    color: #fcf6f6c5;
 }
 
+.content-container {
+    position: relative;
+    padding-bottom: 60px;
+}
 
 .footer a {
     display: inline-block;
     margin: 0 10px;
-    color: black;
+    color: #fcf6f6c5;
     transition: color 0.3s;
     cursor: pointer;
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
-
 .footer a:hover {
-    color: #333;
     transform: translateY(-3px);
+    color: #FCF6F6;
+
 }
-
-
 .scroll-button {
     background: none;
     border: none;
@@ -33,8 +33,11 @@
     padding: 10px;
     cursor: pointer;
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-}
+    color: #fcf6f6c5;
 
-.scroll-button:hover{
+}
+.scroll-button:hover {
     transform: translateY(-3px);
+    color: #FCF6F6;
+
 }
