@@ -1,4 +1,15 @@
-# Portfolio
+# Maria Perez Personal Portfolio
+- About
+- Experience
+- Portfolio
+- Contact Me
+
+# Wireframe
+  
+![portfolio excalidraw](https://github.com/MariaMPerez/Portfolio/assets/120680294/d3a2b332-99c1-40e1-a903-ad9cc17a717b)
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
