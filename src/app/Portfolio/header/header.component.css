@@ -5,7 +5,10 @@
 .video-wrapper {
     max-width: 100%;
     overflow: hidden;
+    background-color: #FCF6F6;
 }
+
+
 
 video {
     width: 100%;
@@ -85,4 +88,9 @@ video {
     border-color: #739eee;
     box-shadow: 0 0 20px #739eee(26, 188, 156, 0.7);
     background-color: transparent;
+}
+
+* {
+    margin: 0;
+    padding: 0;
 }
